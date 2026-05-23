@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PDF Merge Studio 🗂️
 
 A beautiful, **100% free** and **100% private** PDF merger that runs entirely in your browser.
@@ -35,3 +36,7 @@ Built with pure HTML, CSS, and JavaScript. Uses [pdf-lib](https://pdf-lib.js.org
 ---
 
 Made with ❤️ — free to share and use.
+=======
+# pdf-merge-studio
+Free online PDF merger (for Jesper)
+>>>>>>> aebd0f85a5551f9035c95f4d99922d37e0a51fca
